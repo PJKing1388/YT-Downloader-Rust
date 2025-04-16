@@ -68,24 +68,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE) file for details
-
-## ⚠️ Disclaimer
-
-This tool is for educational purposes only. Please respect YouTube's Terms of Service when using this software.
-```
-
-### Additional improvements:
-1. Added Rust version badge
-2. Added license badge
-3. Better section headers with emojis
-4. More visual separation between sections
-5. Fixed typo in example ("my_video.mp4" instead of "my_video.mp4")
-
-You can further enhance it by adding:
-- Screenshots
-- GIF demo
-- More detailed installation instructions
-- Feature comparison with similar tools
-- Roadmap section
-
-Would you like me to add any of these additional elements?
