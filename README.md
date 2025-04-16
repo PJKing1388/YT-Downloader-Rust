@@ -1,6 +1,3 @@
-Here's a more visually appealing version of your README.md with emojis and better formatting:
-
-```markdown
 # 🎬 YouTube Downloader (Rust) 🦀
 
 A simple yet efficient YouTube video downloader written in Rust.
