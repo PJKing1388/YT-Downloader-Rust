@@ -20,8 +20,8 @@
 
 ### مراحل نصب
 ```bash
-git clone https://github.com/your-username/youtube-downloader-rust.git
-cd youtube-downloader-rust/
+git clone https://github.com/PJKing1388/YT-Downloader-Rust.git
+cd YT-Downloader-Rust/
 cargo build --release
 cargo run --release
 ```
