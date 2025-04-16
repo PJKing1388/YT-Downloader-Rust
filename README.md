@@ -24,26 +24,9 @@ A simple yet efficient YouTube video downloader written in Rust.
    ```bash
    git clone https://github.com/your-username/youtube-downloader-rust.git
    cd youtube-downloader-rust/src/
+   cargo build
+   cargo run
    ```
-
-2. Build the project:
-   ```bash
-   cargo build --release
-   ```
-
-## 🚀 Usage
-
-Run the program with a YouTube URL:
-```bash
-cargo run --release -- <YOUTUBE_URL>
-```
-
-### 🎛️ Options:
-- `-o, --output <PATH>`: Set custom output path/filename
-- `-f, --format <FORMAT>`: Specify format (mp4, webm, mp3, etc.)
-- `-q, --quality <QUALITY>`: Set video quality (highest, lowest, 720p, etc.)
-- `--audio-only`: Download audio only
-
 ### 💡 Examples:
 ```bash
 # Download highest quality video
