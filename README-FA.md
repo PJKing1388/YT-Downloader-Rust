@@ -23,5 +23,17 @@
 git clone https://github.com/your-username/youtube-downloader-rust.git
 cd youtube-downloader-rust/
 cargo build --release
+cargo run --release
+```
+### 💡 تگ های کاربردی
 
-‌
+```
+# دانلود با بهترین کیفیت
+cargo run --release -- https://youtu.be/example
+
+# تبدیل به MP3
+cargo run --release -- https://youtu.be/example -f mp3
+
+# ذخیره با نام دلخواه
+cargo run --release -- https://youtu.be/example -o "ویدیوی_من.mp4"
+```
