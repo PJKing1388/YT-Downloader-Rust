@@ -22,8 +22,8 @@ A simple yet efficient YouTube video downloader written in Rust.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-downloader-rust.git
-   cd youtube-downloader-rust/src/
+   git clone https://github.com/your-username/YT-Downloader-Rust.git
+   cd YT-Downloader-Rust/src/
    cargo build
    cargo run
    ```
